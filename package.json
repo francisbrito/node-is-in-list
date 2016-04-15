@@ -1,0 +1,30 @@
+{
+  "name": "is-in-list",
+  "version": "0.0.1",
+  "description": "Determine if an item is contained in a list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisbrito/node-is-in-list.git"
+  },
+  "keywords": [
+    "is",
+    "in",
+    "list",
+    "contains",
+    "checks",
+    "array",
+    "item",
+    "inside",
+    "includes"
+  ],
+  "author": "Francis Brito <fr.br94@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisbrito/node-is-in-list/issues"
+  },
+  "homepage": "https://github.com/francisbrito/node-is-in-list#readme"
+}
