@@ -1,4 +1,4 @@
-# Is in list?
+# Is in list? [![Build Status](https://travis-ci.org/francisbrito/node-is-in-list.svg?branch=master)](https://travis-ci.org/francisbrito/node-is-in-list)
 > Returns whether a certain item is in the provided list.
 
 ## Install
