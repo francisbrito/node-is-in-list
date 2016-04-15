@@ -1,6 +1,6 @@
 {
   "name": "is-in-list",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Determine if an item is contained in a list.",
   "main": "index.js",
   "scripts": {
