@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/francisbrito/node-is-in-list/issues"
   },
-  "homepage": "https://github.com/francisbrito/node-is-in-list#readme"
+  "homepage": "https://github.com/francisbrito/node-is-in-list#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
 }
