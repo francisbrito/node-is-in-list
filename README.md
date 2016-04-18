@@ -49,3 +49,8 @@ var acceptedParams = Object
 
 console.log('accepted param keys are:', acceptedParams);
 ```
+
+## Reasoning
+### Why use this and not `underscore` / `lodash` / `ramda` / `<insert functional library here>`
+Because what I'm looking for is simpler than what any of those libraries have to offer.
+Please think of this library as a simple experiment of re-inventing the wheel to see how it works :)
